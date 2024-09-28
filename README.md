@@ -5,7 +5,7 @@
 🌸 Feel free to open an issue if you have any questions~
 
 
-<a href="https://github.com/jasmine-blush?tab=repositories">
+<a href="https://github.com/jasmine-blush?tab=repositories" color="transparent">
   <img height="200" align="center" src="https://github-readme-stats-steel-eta-91.vercel.app/api?username=jasmine-blush&show_icons=true&theme=dracula&hide_border=true&border_radius=25&custom_title=My%20Stats&hide=issues&show=prs_merged_percentage" />
 </a>
 <a href="https://github.com/jasmine-blush?tab=repositories">
